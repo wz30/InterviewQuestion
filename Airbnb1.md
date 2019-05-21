@@ -15,9 +15,7 @@
 - sum(a)-sum(b) 
 -----------------------------------------------------------------
 - improve this by using xor since sum(a) may be large
-  - xor: same value will yiled 0, different value will yield 1. 
--- So same values do xor operation are 0. Here Xor_sum is mising 
--- value
+  - xor: same value will yiled 0, different value will yield 1. So same values do xor operation are 0. Here Xor_sum is mising value.
 -----------------------------------------------------------------
 
 ## reference
